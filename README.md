@@ -16,9 +16,3 @@ To run the Investment Research Agent, execute the following command:
 ```bash
 python main.py
 ```
-
-## Contribution Guidelines
-Contributions are welcome! Please submit a pull request or open an issue for discussion.
-
-## License
-Specify the license under which the project is distributed.
